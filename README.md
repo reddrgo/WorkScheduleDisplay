@@ -2,7 +2,8 @@
 A smart productivity display built using an ESP32-S3 that shows schedules, assignments, and daily tasks in a modern Spotify-inspired interface.
 
 ## Project Concept
-![Project Concept]([Screenshot 2026-06-03 165051.png](https://github.com/reddrgo/WorkScheduleDisplay/blob/c7651bd09d9af3ee3bc90389c8f802cb15feab26/Screenshot%202026-06-03%20165051.png))
+![Project Concept](<img width="1124" height="897" alt="image" src="https://github.com/user-attachments/assets/6e272b59-fc97-421d-8f06-5eb3d99bafa8" />
+)
 
 ## Features
 - Daily task display
