@@ -13,9 +13,6 @@ The enclosure is designed using foam board and CAD modeling to create a compact 
 
 **STL File:** [Magnificent Snicket (1).stl](Magnificent%20Snicket%20(1).stl)
 
-Add a screenshot of your CAD model here too:
-
-![CAD Model](Screenshot%202026-06-03%20165051.png)
 
 ## Wiring Diagram
 
