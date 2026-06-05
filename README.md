@@ -9,6 +9,24 @@ The enclosure is designed using foam board and CAD modeling to create a compact 
 ![Project Concept](Screenshot%202026-06-03%20165051.png)
 
 
+## 3D Enclosure Design
+
+**STL File:** [Magnificent Snicket (1).stl](Magnificent%20Snicket%20(1).stl)
+
+Add a screenshot of your CAD model here too:
+
+![CAD Model](Screenshot%202026-06-03%20165051.png)
+
+## Wiring Diagram
+
+See:
+- [Wiring Diagram](docs/wiring-diagram.md)
+
+You can also add a wiring image here:
+
+```text
+(images/wiring-diagram.png)
+
 ## Features
 - Daily task display
 - Schedule tracking
