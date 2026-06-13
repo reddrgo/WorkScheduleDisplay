@@ -49,6 +49,6 @@ Create a clean and functional desk display that helps students stay organized an
 ## Bill of Materials (BOM)
 
 - Quantity: 1 | LAFVIN ESP32S3 AI Chatbot Kit | https://www.amazon.com/gp/product/B0FHP8DN4S/ref=ox_sc_act_title_1?smid=A15IQBE9R3BCI4&psc=1
-- Quantity: 1 | Foam Board | Local Store
+- Quantity: 1 | Foam Board | https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-Insulating-Sheathing-0-5-in-x-4-ft-x-8-ft-SE-R-3-XPS-Rigid-Foam-Board-Insulation-13NGX/315193939
 - Quantity: 3 | Push Buttons | Included in Kit
 - Quantity: 1 | TFT200C SPI Display | Included in Kit
