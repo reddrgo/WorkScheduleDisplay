@@ -13,6 +13,16 @@ The enclosure is designed using foam board and CAD modeling to create a compact 
 
 **STL File:** [Magnificent Snicket (1).stl](Magnificent%20Snicket%20(1).stl)
 
+## CAD Files
+
+Current source model was created in Tinkercad.
+
+Included:
+- Magnificent Snicket (1).stl
+
+Tinkercad does not support STEP export. The editable source model can be viewed here:
+
+https://www.tinkercad.com/things/3W4l3RVqBqP/edit
 
 ## Wiring Diagram
 
