@@ -17,7 +17,7 @@ The enclosure is designed using foam board and CAD modeling to create a compact 
 ## Wiring Diagram
 
 See:
-- [Wiring Diagram](docs/wiring-diagram.md)
+![Wiring Diagram](images/wiring-diagram.png)
 
 
 ## Features
