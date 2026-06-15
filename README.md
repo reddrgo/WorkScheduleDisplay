@@ -24,6 +24,12 @@ Tinkercad does not support STEP export. The editable source model can be viewed 
 
 https://www.tinkercad.com/things/3W4l3RVqBqP/edit
 
+- WorkScheduleDisplay.step
+
+The enclosure was designed to hold the display, ESP32-S3, wiring, and navigation buttons in a compact desktop form factor.
+
+---
+
 ## Wiring Diagram
 
 See:
