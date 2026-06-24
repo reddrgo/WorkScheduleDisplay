@@ -12,16 +12,15 @@ The project uses an ESP32-S3 microcontroller, a 2-inch TFT display, and physical
 
 # Final Assembly
 
-## Front View
+### Front View
 
-![Front View](images/front-view.jpg)
+![Front View](images/front-view.jpg.jpeg)
 
 The enclosure is constructed from foam board and painted black to create a clean desktop appearance. The display mounts on the front panel and the navigation buttons are positioned below the screen.
 
-## Internal Electronics
+### Internal Electronics
 
-![Internal Electronics](images/internal-view.jpg)
-
+![Internal Electronics](images/internal-view.jpg.jpeg)
 The interior contains:
 
 - ESP32-S3 Development Board
